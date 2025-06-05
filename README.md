@@ -11,5 +11,5 @@ Ele é um bootcamp totalmente gratuito e é possível baixar o certificado ao fi
 - Princípios de desenvolvimento de software colaborativo.
 ## Referência
 
- - [Dio.io](https://www.dio.me/)
+ - [Dio.me](https://www.dio.me/)
 
