@@ -7,7 +7,7 @@ Ele é um bootcamp totalmente gratuito e é possível baixar o certificado ao fi
 
 ## Convenção de commits
 
-Os commits seguirão o seguinte padrão: **<tipo>(escopo opcional): descrição breve** e para a padronização dos tipos será usado o seguinte:  
+Os commits seguirão o seguinte padrão: **tipo(escopo opcional): descrição breve** e para a padronização dos tipos será usado o seguinte:  
 
 feat: Adição de nova funcionalidade  
 fix: Correção de bug  
