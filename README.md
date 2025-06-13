@@ -9,13 +9,13 @@ Ele é um bootcamp totalmente gratuito e é possível baixar o certificado ao fi
 
 Os commits seguirão o seguinte padrão: **<tipo>(escopo opcional): descrição breve** e para a padronização dos tipos será usado o seguinte:  
 
-feat: Adição de nova funcionalidade
-fix: Correção de bug
-docs: Mudança na documentação
-style: Mudança de estilo(formatação, ponto e vírgula)
-refactor: Refatoração de código(sem alterar funcionalidade)
-test: Adicção ou alteração de testes
-chore: atualizações gerais(build, dependências, etc)
+feat: Adição de nova funcionalidade  
+fix: Correção de bug  
+docs: Mudança na documentação  
+style: Mudança de estilo(formatação, ponto e vírgula)  
+refactor: Refatoração de código(sem alterar funcionalidade)  
+test: Adicção ou alteração de testes  
+chore: atualizações gerais(build, dependências, etc)  
 
 
 ## Módulos em andamento
