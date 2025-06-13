@@ -1,11 +1,11 @@
 
-# Bootcamp Dio: Ri Happy - Front-end do Zero
+# 💻​ Bootcamp Dio: Ri Happy - Front-end do Zero
 
 O Bootcamp *Ri Happy - Front-end do Zero* é um programa que ensina os conceitos fundamentais de HTML, CSS e JS. Além das aulas teóricas o programa conta com 10 projetos práticos com diversas temática e a implementação da responsividade das aplicações.
 Ele é um bootcamp totalmente gratuito e é possível baixar o certificado ao final do curso.
   
   
-## Convenção de commits
+## ⚒️​ Convenção de commits
 
 Os commits seguirão o seguinte padrão: **tipo(escopo opcional): descrição breve** e para a padronização dos tipos será usado o seguinte:  
 
@@ -18,12 +18,12 @@ Os commits seguirão o seguinte padrão: **tipo(escopo opcional): descrição br
 **chore:** atualizações gerais(build, dependências, etc)  
   
   
-## Módulos em andamento
+## 🔄 Módulos em andamento
 
 - Princípios de desenvolvimento de software colaborativo.
   
   
-## Referência
+## 📋 Referência
 
  - [Dio.me](https://www.dio.me/)
 
