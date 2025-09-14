@@ -5,22 +5,17 @@ O Bootcamp *Ri Happy - Front-end do Zero* é um programa que ensina os conceitos
 Ele é um bootcamp totalmente gratuito e é possível baixar o certificado ao final do curso.
   
   
-## 🛠️​ Convenção de commits
+## 🚀 Tecnologias Abordadas
 
-Os commits seguirão o seguinte padrão: **tipo(escopo opcional): descrição breve** e para a padronização dos tipos será usado o seguinte:  
-
-**feat:** Adição de nova funcionalidade  
-**fix:** Correção de bug  
-**docs:** Mudança na documentação  
-**style:** Mudança de estilo(formatação, ponto e vírgula)  
-**refactor:** Refatoração de código(sem alterar funcionalidade)  
-**test:** Adicção ou alteração de testes  
-**chore:** atualizações gerais(build, dependências, etc)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   
 ## 🔄 Módulos em andamento
 
 - Princípios de desenvolvimento de software colaborativo.
+- Desenvolvendo suas primeiras páginas com HTML e CSS.
   
   
 ## 📋 Referência
